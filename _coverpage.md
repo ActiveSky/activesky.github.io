@@ -7,8 +7,9 @@
 
 - 永远相信美好的事情即将发生！
 
-[GitHub](https://github.com/activesky)
-[Email](jikuixie@gmail.com)
+[About Me](https://github.com/activesky)
+[Email](mailto:<jikuixie@gmail.com>)
+
 
 
 
