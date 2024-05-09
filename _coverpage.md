@@ -10,6 +10,7 @@
 - 永远相信美好的事情即将发生！
 
 [About Me](https://github.com/activesky)
+[Email Me](mailto:<jikuixie@gmail.com>)
 
 
 
