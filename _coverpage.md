@@ -1,8 +1,13 @@
 <!-- _coverpage.md -->
+<img src="images/Avatar.jpg" width="100px"/>
+# ActiveSky <small>Jikui Xie</small>
 
-# This is my blog
+> 存在主义是一种人道主义
 
-> A blog about my life and experiences.
+- 永远相信美好的事情即将发生！
+
+[GitHub](https://github.com/activesky)
+[Email](jikuixie@gmail.com)
 
 
 
