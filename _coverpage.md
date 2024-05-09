@@ -1,5 +1,7 @@
 <!-- _coverpage.md -->
+
 <img src="images/Avatar.jpg" width="100px"/>
+
 
 # ActiveSky <small>Jikui Xie</small>
 
@@ -8,7 +10,7 @@
 - 永远相信美好的事情即将发生！
 
 [About Me](https://github.com/activesky)
-[Email](mailto:<jikuixie@gmail.com>)
+
 
 
 
