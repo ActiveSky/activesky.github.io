@@ -18,7 +18,7 @@
   * [量化私募框架](Blogs/finance&quant/量化私募.md)
 
 * Movies
-  * [带着问题前进](Blogs/movies/带着问题前进.md)
+  * [带着问题前进](Blogs/Movies/带着问题前进.md)
   
 * Others
   * [置身事内-乱想](Blogs/others/生活过得好一点，比大多数宏观更宏观.md)
