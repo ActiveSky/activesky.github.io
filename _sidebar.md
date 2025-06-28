@@ -35,4 +35,3 @@
   * [乌合之众-笔记](Blogs/others/乌合之众_6_20.md)
   * [主席-只言片语](Blogs/others/主席_三件大事.md)
   * [改开四十年小说](Blogs/others/改开四十年小说.md)
-  * [女性主义的一些浅谈](Blogs/others/女性主义的一些浅谈.md)
